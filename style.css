@@ -2,5 +2,10 @@
 .brawl-news {
   font-family: "Jost" sans-serif;
   border-radius: 10px;
-  color: #000000
+  color: #000000;
+}
+.brawl-meta {
+  font-family: "Jost" sans-serif;
+  border-radius: 10px;
+  color: #000000;
 }
